@@ -1,5 +1,6 @@
-Groovy Application project template
+Implementation of [underscorejs](http://underscorejs.org) functions in Groovy
 ------------------------------------
+
 
 You have just created a basic Groovy application. There is a standard project
 structure for source code and tests.
